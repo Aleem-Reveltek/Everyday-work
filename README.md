@@ -20,6 +20,6 @@ Track: I did my best today to organize sessions on Facebook and WhatsApp and to 
 
 Assist: I studied the Essential Training Guide wrote my notes in a markdown file, asked Fajar to read everything, and engaged in group discussions.
 
-Reach: Today, I made it a point to study the Essential Training Guide take notes in a Markdown document, converse in groups, and organize sessions on WhatsApp and Facebook groups.
+Reach: Today, I study the Essential Training Guide , converse in groups, and organize sessions on WhatsApp and Facebook groups and in the session I read Essential Training Guide..
 
 
