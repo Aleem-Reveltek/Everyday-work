@@ -8,4 +8,4 @@ Track: Today I will host sessions in Timmsi group, and I will host session about
 
 Assist: Today I will read the handbooks and I will put my notes on markdown file, and I will ask to Fajar to read all that things and I will communicate in groups.
 
-Reach: Today my reach is to make sure to read [handbooks](https://github.com/WorldEnterpriseGroup/reveltek/blob/gh-pages/files/welcome.pdf) and I will put notes on Markdown file, and I will communicate in groups and I will get Microsoft badges and I will host sessions on WhatsApp group and Facebook group and I will host sessions in Timmsi group. 
+Reach: Today my reach is to make sure to read [handbooks](https://reveltek.com/files/training-manual.pdf) and I will put notes on Markdown file, and I will communicate in groups and I will get Microsoft badges and I will host sessions on WhatsApp group and Facebook group and I will host sessions in Timmsi group. 
