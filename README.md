@@ -24,6 +24,8 @@ Reach: Today, I study the Essential Training Guide , converse in groups, and org
 
 ---
 
+February 1 2023
+
 SMART STAR:
 
 Space: Today I’m going to learn about GitHub, and I will read the Essential Training Guide what I learn yesterday I will teach Fajar and I will improve my GitHub profile.
